@@ -183,7 +183,7 @@ p {
 
 .section-1 {
   padding-top: 18rem;
-  background-image: url(./Images/hero-section-banner.webp);
+  background-image: url(./Images/hero-section-banner.webp );
   background-size: cover;
   height: 68.1rem;
 }
